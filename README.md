@@ -1,0 +1,2 @@
+# poolcoin
+Poolcoin
